@@ -1,4 +1,5 @@
 info:
   profile: default
-test:bbb
-ceshi:测试
+  
+test: bbb
+ceshi: 测试
